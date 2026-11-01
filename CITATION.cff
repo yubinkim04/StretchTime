@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite our paper."
+title: "StretchTime: Adaptive Time Series Forecasting via Symplectic Attention"
+authors:
+  - family-names: Kim
+    given-names: Yubin
+  - family-names: Pati
+    given-names: Viresh
+  - family-names: Twitty
+    given-names: Jevon
+  - family-names: Pham
+    given-names: Vinh
+  - family-names: Yang
+    given-names: Shihao
+  - family-names: Lu
+    given-names: Jiecheng
+repository-code: "https://github.com/yubinkim04/StretchTime"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "StretchTime: Adaptive Time Series Forecasting via Symplectic Attention"
+  authors:
+    - family-names: Kim
+      given-names: Yubin
+    - family-names: Pati
+      given-names: Viresh
+    - family-names: Twitty
+      given-names: Jevon
+    - family-names: Pham
+      given-names: Vinh
+    - family-names: Yang
+      given-names: Shihao
+    - family-names: Lu
+      given-names: Jiecheng
+  collection-title: "Proceedings of the 43rd International Conference on Machine Learning"
+  conference:
+    name: "International Conference on Machine Learning (ICML)"
+  year: 2026
+  volume: 306
+  start: 58878
+  end: 58898
+  publisher:
+    name: PMLR
+  url: "https://proceedings.mlr.press/v306/kim26bk.html"
